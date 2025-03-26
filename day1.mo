@@ -1,6 +1,3 @@
-this is the codes for day1
-
-
 import Nat64 "mo:base/Nat64";
 
 actor Calculator {
